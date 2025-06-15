@@ -1,0 +1,73 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.statusBar.visible": false,
+  "workbench.editor.showTabs": "none",
+  "workbench.tree.renderIndentGuides": "onHover",
+  "workbench.sideBar.location": "right",
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.decorations.badges": false,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": true,
+  "editor.guides.indentation": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.accessibilitySupport": "off",
+  "editor.quickSuggestions": {
+    "strings": false
+  },
+  "chat.editor.fontSize": 13,
+  "editor.fontSize": 13,
+  "editor.fontFamily": "'JetBrains Mono', 'Geist Mono', 'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.fontWeight": "400",
+  "editor.fontVariations": false,
+  "editor.fontLigatures": true,
+  "editor.tokenColorCustomizations": {
+    "[Calamity]": {
+      "types": "#fdc5f6"
+    }
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "tailwindCSS.experimental.configFile": null,
+  "diffEditor.wordWrap": "off",
+  "git.ignoreMissingGitWarning": true,
+  "git.openRepositoryInParentFolders": "never",
+  "security.workspace.trust.untrustedFiles": "open",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "emojisense.languages": {
+    "javascript": true,
+    "javascriptreact": true,
+    "typescript": true,
+    "typescriptreact": true,
+    "python": true,
+    "html": true,
+    "markdown": true,
+    "plaintext": {
+      "markupCompletionsEnabled": false,
+      "emojiDecoratorsEnabled": false
+    },
+    "scminput": true,
+    "git-commit": true
+  },
+  "telemetry.telemetryLevel": "off",
+  "chat.commandCenter.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "window.menuBarVisibility": "compact",
+  "window.zoomLevel": 1,
+  "terminal.integrated.tabs.defaultIcon": "terminal-powershell",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontFamily": "'Cascadia Code'",
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Calamity",
+  "python.analysis.typeCheckingMode": "basic"
+}

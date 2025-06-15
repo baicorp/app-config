@@ -1,0 +1,501 @@
+[
+  {
+    "identifier": {
+      "id": "ritwickdey.liveserver",
+      "uuid": "46cc5bbd-b098-4568-9b87-f91e07d26f2d"
+    },
+    "version": "5.7.9",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/ritwickdey.liveserver-5.7.9",
+      "scheme": "file"
+    },
+    "relativeLocation": "ritwickdey.liveserver-5.7.9",
+    "metadata": {
+      "id": "46cc5bbd-b098-4568-9b87-f91e07d26f2d",
+      "publisherId": "17fd9a78-e430-4a78-add2-ade4a8830352",
+      "publisherDisplayName": "Ritwick Dey",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "installedTimestamp": 1662260570250
+    }
+  },
+  {
+    "identifier": {
+      "id": "wix.vscode-import-cost",
+      "uuid": "c46b0018-f317-4b6c-a785-d2039b27338f"
+    },
+    "version": "3.3.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/wix.vscode-import-cost-3.3.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "wix.vscode-import-cost-3.3.0",
+    "metadata": {
+      "id": "c46b0018-f317-4b6c-a785-d2039b27338f",
+      "publisherId": "7a344d8a-64ec-42a7-9255-9eacf94e746a",
+      "publisherDisplayName": "Wix",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1681956100589,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "bierner.emojisense",
+      "uuid": "081cd2e9-bc51-4ea3-977e-544bed2e33a8"
+    },
+    "version": "0.10.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/bierner.emojisense-0.10.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "bierner.emojisense-0.10.0",
+    "metadata": {
+      "id": "081cd2e9-bc51-4ea3-977e-544bed2e33a8",
+      "publisherId": "f164f116-e2aa-496b-84dc-2451248e8beb",
+      "publisherDisplayName": "Matt Bierner",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1705240876516,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "be5invis.toml",
+      "uuid": "e79fd228-c27f-423b-a8fc-b006fa99ed64"
+    },
+    "version": "0.6.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/be5invis.toml-0.6.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "be5invis.toml-0.6.0",
+    "metadata": {
+      "installedTimestamp": 1720311257323,
+      "pinned": false,
+      "source": "gallery",
+      "id": "e79fd228-c27f-423b-a8fc-b006fa99ed64",
+      "publisherId": "8c148d69-cbc6-480b-bd8b-a42715926324",
+      "publisherDisplayName": "be5invis",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "11.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/esbenp.prettier-vscode-11.0.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-11.0.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1723702206957,
+      "pinned": false,
+      "source": "gallery",
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "Prettier",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ecmel.vscode-html-css",
+      "uuid": "aaee577c-f062-495a-9816-0cbd442f1d25"
+    },
+    "version": "2.0.13",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/ecmel.vscode-html-css-2.0.13",
+      "scheme": "file"
+    },
+    "relativeLocation": "ecmel.vscode-html-css-2.0.13",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1739852972200,
+      "pinned": false,
+      "source": "gallery",
+      "id": "aaee577c-f062-495a-9816-0cbd442f1d25",
+      "publisherId": "7aa35068-d7c4-4220-b9c1-10360795fd5f",
+      "publisherDisplayName": "ecmel",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "zhuangtongfa.material-theme",
+      "uuid": "26a529c9-2654-4b95-a63f-02f6a52429e6"
+    },
+    "version": "3.19.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/zhuangtongfa.material-theme-3.19.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "zhuangtongfa.material-theme-3.19.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1739852972239,
+      "pinned": false,
+      "source": "gallery",
+      "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
+      "publisherId": "8ae75bda-ec22-4a17-9340-abf1a20beca9",
+      "publisherDisplayName": "binaryify",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-wsl",
+      "uuid": "f0c5397b-d357-4197-99f0-cb4202f22818"
+    },
+    "version": "0.88.5",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/ms-vscode-remote.remote-wsl-0.88.5",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode-remote.remote-wsl-0.88.5",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1739852972204,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ac9410a2-0d75-40ec-90de-b59bb705801d",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-wsl",
+      "uuid": "f0c5397b-d357-4197-99f0-cb4202f22818"
+    },
+    "version": "0.99.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/ms-vscode-remote.remote-wsl-0.99.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode-remote.remote-wsl-0.99.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1744237544156,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ac9410a2-0d75-40ec-90de-b59bb705801d",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.debugpy",
+      "uuid": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615"
+    },
+    "version": "2025.8.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/ms-python.debugpy-2025.8.0-win32-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.debugpy-2025.8.0-win32-x64",
+    "metadata": {
+      "installedTimestamp": 1746772513923,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "win32-x64",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.python",
+      "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
+    },
+    "version": "2025.6.1",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/ms-python.python-2025.6.1-win32-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.python-2025.6.1-win32-x64",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1747359469915,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "win32-x64",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "pkief.material-icon-theme",
+      "uuid": "5db78037-f674-459f-a236-db622c427c5b"
+    },
+    "version": "5.23.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/pkief.material-icon-theme-5.23.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "pkief.material-icon-theme-5.23.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1747424210869,
+      "pinned": false,
+      "source": "gallery",
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "f9e5bc2f-fea1-4075-917f-d83e01e69f56",
+      "publisherDisplayName": "Philipp Kief",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "rangav.vscode-thunder-client",
+      "uuid": "2fd56207-78ef-49d4-95d2-9b801eee4dbf"
+    },
+    "version": "2.35.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/rangav.vscode-thunder-client-2.35.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "rangav.vscode-thunder-client-2.35.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1747848478571,
+      "pinned": false,
+      "source": "gallery",
+      "id": "2fd56207-78ef-49d4-95d2-9b801eee4dbf",
+      "publisherId": "f6503eef-4f6f-415c-b1e0-221209c035ee",
+      "publisherDisplayName": "Thunder Client",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "pustur.calamity-vscode",
+      "uuid": "6a8133bd-0c5f-4c86-a743-ad1bf124c7c3"
+    },
+    "version": "1.2.9",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/pustur.calamity-vscode-1.2.9",
+      "scheme": "file"
+    },
+    "relativeLocation": "pustur.calamity-vscode-1.2.9",
+    "metadata": {
+      "installedTimestamp": 1748537356383,
+      "pinned": false,
+      "source": "gallery",
+      "id": "6a8133bd-0c5f-4c86-a743-ad1bf124c7c3",
+      "publisherId": "e5771d21-0c66-432c-b8b6-e0877fdc3acc",
+      "publisherDisplayName": "Pustur",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "pranaygp.vscode-css-peek",
+      "uuid": "0b8f8d63-11a2-4194-969c-ca7488b3413a"
+    },
+    "version": "4.4.3",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/pranaygp.vscode-css-peek-4.4.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "pranaygp.vscode-css-peek-4.4.3",
+    "metadata": {
+      "installedTimestamp": 1748783584688,
+      "pinned": false,
+      "source": "gallery",
+      "id": "0b8f8d63-11a2-4194-969c-ca7488b3413a",
+      "publisherId": "3975bc66-f8bb-46a9-b8b6-430f013e4fa5",
+      "publisherDisplayName": "Pranay Prakash",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "bradlc.vscode-tailwindcss",
+      "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
+    },
+    "version": "0.14.21",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.21",
+      "scheme": "file"
+    },
+    "relativeLocation": "bradlc.vscode-tailwindcss-0.14.21",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749188175112,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
+      "publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
+      "publisherDisplayName": "Tailwind Labs",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "rust-lang.rust-analyzer",
+      "uuid": "06574cb4-e5dc-4631-8174-a543a4533621"
+    },
+    "version": "0.3.2490",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/bagus/.vscode/extensions/rust-lang.rust-analyzer-0.3.2490-win32-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "rust-lang.rust-analyzer-0.3.2490-win32-x64",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749473037042,
+      "pinned": false,
+      "source": "gallery",
+      "id": "06574cb4-e5dc-4631-8174-a543a4533621",
+      "publisherId": "cb14a7a7-a188-40bd-a953-e0a20757c5dd",
+      "publisherDisplayName": "The Rust Programming Language ",
+      "targetPlatform": "win32-x64",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": { "id": "ms-python.vscode-pylance" },
+    "version": "2025.6.1",
+    "location": {
+      "$mid": 1,
+      "fsPath": "c:\\Users\\bagus\\.vscode\\extensions\\ms-python.vscode-pylance-2025.6.1",
+      "_sep": 1,
+      "external": "file:///c%3A/Users/bagus/.vscode/extensions/ms-python.vscode-pylance-2025.6.1",
+      "path": "/c:/Users/bagus/.vscode/extensions/ms-python.vscode-pylance-2025.6.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.vscode-pylance-2025.6.1",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749962989066,
+      "pinned": false,
+      "source": "gallery",
+      "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  }
+]
