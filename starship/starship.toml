@@ -1,0 +1,43 @@
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# Inserts a blank line between shell prompts
+add_newline = true
+
+format = """
+$directory\
+$all\
+$username$character"""
+
+[username]
+format = '[$user]($style)'
+style_user = 'purple bold'
+style_root = 'red bold'
+disabled = false
+show_always = true
+aliases = { "bagus" = "bai@windows:~", "Administrator" = "root@windows:~" }
+
+[character]
+success_symbol = "\\$"
+error_symbol = "\\$"
+vicmd_symbol = "\\$"
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = false
+
+[bun]
+format = 'via [$symbol($version )]($bold yellow)'
+symbol = "🍞 "
+style = 'bold yellow'
+detect_files = ['bun.lock', 'bun.lockb', 'bunfig.toml']
+
+[nodejs]
+format = 'via [$symbol($version )]($bold green)'
+symbol = '⬢ '
+detect_files = ['package.json', '.node-version', '.nvmrc', '!bun.lock', '!bun.lockb', '!bunfig.toml']
+
+[git_branch]
+format = 'on [$symbol$branch(:$remote_branch)]($style) '
+symbol = ' '
+style = '#f14e32'
