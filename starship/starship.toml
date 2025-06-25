@@ -15,7 +15,8 @@ style_user = 'purple bold'
 style_root = 'red bold'
 disabled = false
 show_always = true
-aliases = { "bagus" = "bai@windows:~", "Administrator" = "root@windows:~" }
+# Format: username@hostname. Change "bai" to your actual username, and "fedora" to your preferred hostname.
+aliases = { "bai" = "bai@fedora:~ ", "Administrator" = "root@fedora:~ ", "root" = "root@fedora:~ " }
 
 [character]
 success_symbol = "\\$"
