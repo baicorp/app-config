@@ -7,36 +7,54 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-  "ui_font_size": 20,
+  // "agent": {
+  //   "default_profile": "ask",
+  //   "default_model": {
+  //     "provider": "openai",
+  //     "model": "gpt-5-mini"
+  //   },
+  //   "model_parameters": [],
+  //   "play_sound_when_agent_done": true
+  // },
+  "agent": {
+    "default_model": {
+      "provider": "google",
+      "model": "gemini-2.5-flash"
+    },
+    "model_parameters": []
+  },
+  "disable_ai": false,
+  "ui_font_size": 19,
   "ui_font_family": "JetBrains Mono",
   "buffer_font_size": 17,
   "buffer_font_family": "JetBrains Mono",
+  "terminal": {
+    "font_size": 15,
+    "dock": "left",
+  },
   "theme": {
-    "mode": "system",
-    "light": "One Dark",
-    "dark": "One Dark Pro Max"
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "One Dark Pro Max",
   },
   "icon_theme": "Material Icon Theme",
   "telemetry": {
     "diagnostics": false,
-    "metrics": false
+    "metrics": false,
   },
   "tab_bar": {
-    "show": false
+    "show": false,
   },
   "project_panel": {
     "dock": "right",
     "indent_guides": {
-      "show": "never"
+      "show": "never",
     },
-    "indent_size": 14
+    "indent_size": 14,
   },
   "indent_guides": {
     // disabled indent guide line in editor
-    "enabled": false
+    "enabled": false,
   },
-  "terminal": {
-    "font_size": 16,
-    "dock": "right"
-  }
 }
+
