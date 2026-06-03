@@ -16,17 +16,24 @@
   //   "model_parameters": [],
   //   "play_sound_when_agent_done": true
   // },
+  "buffer_line_height": {
+    "custom": 1.5,
+  },
+  "diff_view_style": "unified",
+  "git_panel": {
+    "dock": "left",
+  },
   "agent": {
     "default_model": {
       "provider": "google",
-      "model": "gemini-2.5-flash"
+      "model": "gemini-2.5-flash",
     },
-    "model_parameters": []
+    "model_parameters": [],
   },
-  "disable_ai": false,
-  "ui_font_size": 19,
+  "disable_ai": true,
+  "ui_font_size": 19.0,
   "ui_font_family": "JetBrains Mono",
-  "buffer_font_size": 17,
+  "buffer_font_size": 16.0,
   "buffer_font_family": "JetBrains Mono",
   "terminal": {
     "font_size": 15,
@@ -34,16 +41,20 @@
   },
   "theme": {
     "mode": "dark",
-    "light": "One Light",
+    "light": "Ayu Light",
     "dark": "One Dark Pro Max",
   },
-  "icon_theme": "Material Icon Theme",
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Material Icon Theme",
+    "dark": "Material Icon Theme",
+  },
   "telemetry": {
     "diagnostics": false,
     "metrics": false,
   },
   "tab_bar": {
-    "show": false,
+    "show": true,
   },
   "project_panel": {
     "dock": "right",
@@ -57,4 +68,3 @@
     "enabled": false,
   },
 }
-
